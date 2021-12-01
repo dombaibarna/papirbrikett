@@ -1,7 +1,7 @@
 body{
   padding: 15px;
-  color: blue;
-  line-height: 110%;
+  color: #1f3f5f;
+  line-height: 125%;
   background-image: url(/images/hatterkep.png);
 }
 
@@ -50,6 +50,7 @@ p:first-letter{
   padding: 5px;
   border-left: 1px solid #3F4F5F;
   border-right: 1px solid #3F4F5F;
+
 }
 
 #presek img{
